@@ -1,0 +1,46 @@
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #535152;
+	}	
+.BackFirstTable {
+	background-image: url(img/back_firts_table.gif);
+	height: 42px;
+}
+.BackScnTable {
+	background-image: url(img/back_scond_table.gif);
+	height: 16px;
+}
+.BackThrdTable {
+	color: #000000;
+	background-color: F7C30C;
+}
+.Black {
+	color: #000000;
+	text-decoration: none;
+}
+a.Black:Hover {
+	text-decoration: underline ;
+}
+.BackFrthLine {
+	background-image: url(img/back_frth_line.gif);
+	height: 22px;
+}
+.BackContent {
+	background-color: E1E1E1;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+.BackFirstNew {
+	background-image: url(img/back_firts_new.gif);
+	background-color: E9E9E9;
+
+}
+.PopHeader {
+	background-image: url(img/pop_header.gif);
+	height: 11px;
+}
+.PopDashed {
+	background-image: url(img/pop_dashed.gif);
+}

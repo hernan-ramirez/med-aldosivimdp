@@ -1,0 +1,393 @@
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #535152;
+	}
+form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.BackFirstTable {
+	background-image: url(img/back_firts_table.gif);
+	height: 42px;
+}
+.BackScnTable {
+	background-image: url(img/back_scond_table.gif);
+	height: 16px;
+}
+.BackThrdTable {
+	color: #000000;
+	background-color: F7C30C;
+}
+.Black {
+	color: #000000;
+	text-decoration: none;
+}
+a.Black:Hover {
+	text-decoration: underline ;
+}
+.BackFrthLine {
+	background-image: url(img/back_frth_line.gif);
+	height: 22px;
+}
+.BackContent {
+	background-color: E1E1E1;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+.BackFirstNew {
+	background-image: url(img/back_firts_new.gif);
+	background-color: E9E9E9;
+	background-repeat: repeat-x;
+	vertical-align: top;
+}
+.shadow {
+	background-image: url(img/shadow.gif);
+	background-repeat: repeat-x;
+	height: 14px;
+}
+.BigBold {
+	font-size: 18px;
+	font-weight: bold;
+}
+.MiddleBody {
+	background-color: E1E1E1;
+	width: 5px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.Dashed {
+	background-image: url(img/dashed.gif);
+	height: 5px;
+}
+.PaddingTerciaria {
+	padding-right: 2px;
+	padding-left: 2px;
+}
+.Encuesta {
+	background-color: E5E8D9;
+	padding-right: 7px;
+	padding-left: 5px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+}
+.Resultados {
+	background-color: D8DCC6;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: ADB19B;
+
+}
+.ResultadosBar {
+	background-color: D8DCC6;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+
+}
+.EncuestaEnd {
+	background-image: url(img/end_encuesta.gif);
+	height: 6px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+
+
+}
+.ResultadosEnd {
+	background-image: url(img/end_resultados.gif);
+	height: 6px;
+	border-right-width: 2px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #FFFFFF;
+	border-left-color: ADB19B;
+}
+.SecndColmn {
+	background-image: url(img/back_snd_colm.gif);
+}
+.GreenBold, a.GreenBold:Link {
+	font-weight: bold;
+	color: 00980B;
+}
+a.GreenBold:Hover, a.GreenBold:Visited {
+	text-decoration: underline ;
+	font-weight: bold;
+	color: 00980B;	
+}
+.PopHeader {
+	background-image: url(img/pop_header.gif);
+	height: 11px;
+}
+}
+.PopHeaderColumna {
+	background-image: url(img/pop_header_columna.gif);
+	height: 11px;
+}
+.PopDashed {
+	background-image: url(img/pop_dashed.gif);
+}
+.Epigrafe {
+	margin: 4px;
+	padding: 4px;
+	background-color: #EAEAEA;
+	border: 1px dotted #666666;
+}
+.titOpinion {
+	font-size: 13px;
+	font-weight: bold;
+	color: 00980B;
+	}
+a, a:link{
+	color: #FFBA00;
+	text-decoration: none;
+	}
+
+a:Hover{
+	text-decoration: underline;
+	}
+.BackDownloadBar {
+	background-image: url(img/back_dowload_bar.gif);
+	height: 36px;
+	margin-left: 4px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: CCCCCC;
+	border-bottom-color: CCCCCC;
+
+}
+.DownWhite {
+	font-size: 12px;
+	color: #333333;
+	height: 26px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: CCCCCC;
+	padding-left: 4px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: CCCCCC;
+
+}
+.DownTitle {
+	font-size: 18px;
+	font-weight: bold;
+	height: 50px;
+	padding-left: 4px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-color: CCCCCC;
+	border-right-color: CCCCCC;
+	border-bottom-color: CCCCCC;
+}
+.BackHespeciales {
+	background-image: url(img/back_h_especiales.gif);
+	height: 37px;
+}
+.EspecialesTitle {
+	font-size: 12px;
+	color: #FFFFFF;
+	background-image: url(img/especiales_title.gif);
+	height: 38px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: 5E772B;
+	padding-left: 4px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	padding-right: 4px;
+
+
+
+}
+.EspecialesTitleY {
+	font-size: 12px;
+	color: #FFFFFF;
+	background-image: url(img/especiales_title_y.gif);
+	height: 38px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: 8B771A;
+	padding-left: 4px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	padding-right: 4px;
+
+
+
+}
+.EspecialesGreen {
+	background-color: E9FFBD;
+	padding-left: 4px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	height: 22px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+	color: #000000;
+	padding-right: 4px;
+}
+.EspecialesYellow {
+	background-color: F3F0A8;
+	padding-left: 4px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	height: 22px;
+	color: #000000;
+	padding-right: 4px;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.EspecialesGray {
+	background-color: F9F9F9;
+	padding-left: 4px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #666666;
+	border-bottom-color: #666666;
+	height: 22px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+	color: #000000;
+	padding-right: 4px;
+}
+.EspecialesTitleGray {
+	background-image: url(img/especiales_title_gray.gif);
+	height: 37px;
+	padding-left: 5px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #888888;
+	border-bottom-color: #888888;
+	border-left-color: #FFFFFF;
+	color: 868686;
+
+}
+.BackGradeGary {
+	background-image: url(img/back_grade_gary.gif);
+	height: 36px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #868686;
+	border-bottom-color: #868686;
+	border-left-color: #FFFFFF;
+	padding-left: 4px;
+}
+.BackResultadosAds {
+	font-size: 13px;
+	color: #FFFFFF;
+	background-image: url(img/back_resultados_ads.gif);
+	height: 30px;
+	padding-right: 7px;
+	padding-left: 7px;
+	font-weight: bold;
+
+}
+.BackGreenRight {
+	font-size: 11px;
+	color: #000000;
+	background-color: #C8D98D;
+	height: 36px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #868686;
+	border-bottom-color: #868686;
+	border-left-color: #FFFFFF;
+	padding-left: 4px;
+
+}
+.EspecialesGray {
+	font-size: 11px;
+	color: #000000;
+	background-color: #DEDEDE;
+	height: 22px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFFFFF;
+	border-right-color: #868686;
+	border-bottom-color: #868686;
+	border-left-color: #FFFFFF;
+	padding-left: 4px;
+
+}
+.InfantilesTable {
+	border-top: 1px solid EDEDED;
+	border-bottom: 2px solid #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	background-color: #EDEDED;
+	text-transform: none;
+	color: #666666;
+	padding-left: 4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
